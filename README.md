@@ -44,7 +44,7 @@ Expense Tracker/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/shashank0315/Expense-Tracker.git
+git clone https://github.com/shashank0315/Expense-Tracker
 cd Expense-Tracker
 ```
 
